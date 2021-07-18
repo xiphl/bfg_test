@@ -1,4 +1,5 @@
 # bfg_test
 
-***REMOVED*** is the taboo word.
+trevor is the taboo word.
 
+blah Trevor.
